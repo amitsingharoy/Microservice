@@ -59,16 +59,17 @@ App Screen-shot
 
 ![Alt text!](main-screen-12.png)
 
- 
 ## Project video 
+ file:///home/jacksparrow/Desktop/d/gdpr%20video.mp4
 
- - [Project-videolink](https://user-images.githubusercontent.com/81232337/151606910-d67abea3-2003-4e33-b63b-ca2f68a355ea.mp4)
+
+ 
 
 
 Development:
 
 
- https://user-images.githubusercontent.com/81232337/151606910-d67abea3-2003-4e33-b63b-ca2f68a355ea.mp4
 
 
+ file:///home/jacksparrow/Desktop/d/gdpr%20video.mp4
 # test2
