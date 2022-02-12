@@ -60,7 +60,11 @@ App Screen-shot
 ![Alt text!](main-screen-12.png)
 
 ## Project video 
- gdpr video.mp4
+ 
+
+https://user-images.githubusercontent.com/69400113/153728569-f4249c9b-b8f4-4cfa-bcbc-276746a57b2e.mp4
+
+
 
 
  
@@ -68,6 +72,10 @@ App Screen-shot
 
 Development:
 
+
+https://user-images.githubusercontent.com/69400113/153728623-29decca7-3406-4683-b70c-6952ab4c2930.mp4
+
+
  
-gdpr video.mp4
+
 
