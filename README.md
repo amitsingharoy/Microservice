@@ -59,8 +59,8 @@ App Screen-shot
 
 ![Alt text!](main-screen-12.png)
 
-##Project video 
- file:///home/jacksparrow/Desktop/d/gdpr%20video.mp4
+## Project video 
+ gdpr video.mp4
 
 
  
@@ -69,6 +69,5 @@ App Screen-shot
 Development:
 
  
+gdpr video.mp4
 
-
- file:///home/jacksparrow/Desktop/d/gdpr%20video.mp4
